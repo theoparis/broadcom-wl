@@ -56,7 +56,6 @@
 #include <asm/irq.h>
 #include <asm/pgtable.h>
 #include <asm/uaccess.h>
-#include <asm/unaligned.h>
 
 #include <proto/802.1d.h>
 
