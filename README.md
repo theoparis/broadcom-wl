@@ -2,7 +2,7 @@
 
 Re-upload from the source code found on the [Broadcom Support and Downloads page][1]
 
-**Patched for Linux >= 4.7**
+**Patched for Linux >= 6.13**
 
 Tested on a BCM4360-based 802.11ac Wireless Network Adapter (TP-LINK Archer T8E)
 
